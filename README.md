@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.huancosoft.com](https://www.huancosoft.com)
 
-- 💬 Ask me about **React, PHP, Node.js**
+- 💬 Ask me about **React, C#, PHP, Node.js**
 
-- 📫 How to reach me **rene@huancosoft.com**
+- 📫 How to reach me **rene.huanco.choque@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
