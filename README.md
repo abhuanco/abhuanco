@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [CC3D App](https://app.cc3d.org)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin**, **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://www.huancosoft.com](https://www.huancosoft.com)
-
-- 💬 Ask me about **React, .Net Core, Node.js, PHP**
+- 💬 Ask me about **.Net Core, Node.js, PHP, React**
 
 - 📫 How to reach me **rene.huanco.choque@gmail.com**
 
